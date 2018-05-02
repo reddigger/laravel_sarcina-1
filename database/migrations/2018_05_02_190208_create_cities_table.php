@@ -9,7 +9,7 @@ class CreateCitiesTable extends Migration
     /**
      * Run the migrations.
      *
-     * @return void
+     * @return vpopmail_del_domain(domain)
      */
     public function up()
     {
