@@ -13,7 +13,7 @@ class CityController extends Controller
 
     public function showAddForm()
     {
-    	echo 'Lista cu orase';
+    	echo 'Forma oraselor';
     }
 
     public function addCity()

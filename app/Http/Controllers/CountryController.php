@@ -8,16 +8,16 @@ class CountryController extends Controller
 {
     public function showCountriesList()
     {
-    	echo 'Lista cu orase';
+    	echo 'Lista cu tari';
     }
 
     public function showAddForm()
     {
-    	echo 'Lista cu orase';
+    	echo 'Forma tara';
     }
 
     public function addCoutry()
     {
-    	echo 'adaugarea datelor prin post';
+    	echo 'adaugarea datelor prin post2';
     }
 }
